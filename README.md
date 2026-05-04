@@ -15,8 +15,7 @@ If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.co
 
 **1. Local Sales**
 
-![image](<img width="1313" height="811" alt="image" src="https://github.com/user-attachments/assets/578050ab-1a3f-4dd2-80be-ed1a32099f2a" />
-)
+<img width="1313" height="811" alt="image" src="https://github.com/user-attachments/assets/17d7760f-b23d-4c14-9c08-9132377e084c" />
 
 From 2014 - 2017, there is an upward trend in sales revenue, especially in the end of the year period. This happens possibly because of consumers' buying trend tend to increase in that period, or it could be due to the store discount period.
 
